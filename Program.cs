@@ -10,7 +10,12 @@ namespace leapyear
             // flipcoin.headtailpercentage();
             //powerof2.tableofpowerof2();
             // harmonic_mean.calculateHM();
-            primefactors.computeprimefactors();
+            // primefactors.computeprimefactors();
+            //QuotientAndRemainder.ComputeQuotientRemainder();
+            //SwapNumbers.SwaptwoNumbers();
+            //Evenorodd.CheckEvenorOdd();
+            //VowelsorConsonant.CheckVowelorConsonant();
+            LargestNumber.FindLargestNumber();
         }
     }
 
