@@ -22,7 +22,7 @@ namespace leapyear
                     pow = pow * 2;
                  
                 }
-                Console.WriteLine("2^"+n "="+pow);
+                Console.WriteLine("2^"+n +"=" +pow);
             }
         }
     }
